@@ -77,19 +77,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahZaheer1&show_icons=true&theme=radical" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahZaheer1&theme=radical" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahZaheer1&show_icons=true&locale=en&layout=compact&theme=radical" alt="langs" />
-</p>
-
----
 
 ✨ *“Automation is good, so long as you know exactly where to put the machine.”* – Eliyahu Goldratt
+✨ *“Talk is cheap, show me the code”* – Linus Torvalds
