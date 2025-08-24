@@ -79,4 +79,5 @@
 
 
 ✨ *“Automation is good, so long as you know exactly where to put the machine.”* – Eliyahu Goldratt
+
 ✨ *“Talk is cheap, show me the code”* – Linus Torvalds
