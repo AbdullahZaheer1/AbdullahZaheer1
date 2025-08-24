@@ -72,8 +72,8 @@
 ---
 
 ### 🚀 Featured Projects
-- [📦 GitHub Uploader App](https://github.com/AbdullahZaheer1/github-uploader) – Desktop app to upload code directly to GitHub.  
-- [🌐 DevOps Portfolio](https://abdullahzaheer1.github.io/AbdullahZaheer/) – Personal portfolio with projects and blogs.  
+- [📦 Video Downloader App](https://github.com/AbdullahZaheer1/Video-Downloader) – Desktop app tat download video by using link of video.  
+- [📦 Restaurant Website](https://github.com/AbdullahZaheer1/Restaurant-Website) – Full Frontend Website of a Restaurant. 
 
 ---
 
