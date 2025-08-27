@@ -72,7 +72,7 @@
 ---
 
 ### 🚀 Featured Projects
-- [📦 Video Downloader App](https://github.com/AbdullahZaheer1/Video-Downloader) – Desktop app tat download video by using link of video.  
+- [📦 Video Downloader App](https://github.com/AbdullahZaheer1/Video-Downloader) – Desktop app that download video by using link of video.  
 - [📦 Restaurant Website](https://github.com/AbdullahZaheer1/Restaurant-Website) – Full Frontend Website of a Restaurant. 
 
 ---
